@@ -47,7 +47,7 @@ This analysis provided valuable insights into the factors that influenced surviv
 # How to Use
 To run the analysis yourself:
 
-1. Clone this repository: git clone https://github.com/your-username/titanic-survival-analysis.git
+1. Clone this repository: git clone https://github.com/snehakhandale/titanic-survival-analysis.git
 2. Install the required libraries: pip install -r requirements.txt
 3. Run the Jupyter notebook titanic_survival_analysis.ipynb to see the analysis and visualizations.
 
