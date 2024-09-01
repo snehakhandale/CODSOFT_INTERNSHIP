@@ -24,7 +24,7 @@ The main objectives of this project are:
 
 ## How to Run
 1. Clone the repository:
-git clone https://github.com/yourusername/advertising-analysis.git
+git clone https://github.com/snehakhandale/advertising-analysis.git
   
 2. Navigate to the project directory:
 cd advertising-analysis
